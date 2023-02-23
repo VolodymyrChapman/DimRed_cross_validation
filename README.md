@@ -4,7 +4,8 @@ A SciKit-Learn implementation of CV evaluation of dimensionality reduction metho
 
 ## TODOs:
 - [x] Write code for cross validation procedure
-- [] Write an example notebook to display operation
-- [] Share a conda environment for reproducible execution
+- [ ] Write an example notebook to display operation
+- [ ] Share a conda environment for reproducible execution
 
 All communication and PRs welcome - let's do this together, Hubbers!
+Vova
